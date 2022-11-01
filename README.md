@@ -10,5 +10,5 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuk1o&show_icons=true&theme=dark&layout=compact" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Nuk1o&show_icons=true&theme=dark" />
 </p>
-<img alt="github-profile-trophy" src="https://github-profile-trophy.vercel.app/?username=Nuk1o&theme=dark_lover&column=7" />
+  <img alt="github-profile-trophy" src="https://github-profile-trophy.vercel.app/?username=Nuk1o&theme=dark_lover&column=7" />
 </div>
